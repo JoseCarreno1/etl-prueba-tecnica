@@ -2,7 +2,7 @@
 
 # La estrategia de carga sin duplicados se divide en 2 parte, esta es la priemra parte cargando un csv en una tabla previa en postgressql.
 
-# Nombre del archivo CSV original
+# Nombre y parametrización del archivo CSV original
 input_file="ventas_transformadas.csv"
 
 # Parámetros de conexión a PostgreSQL
