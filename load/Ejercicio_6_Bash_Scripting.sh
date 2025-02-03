@@ -14,7 +14,7 @@ Ejemplo de ejecución:
 EOF
 
 
-# Verificar si el archivo CSV existe
+# Verificar si el archivo CSV existe, dado por el parámetro de entrada $1 desde el llamado del sh
 if [ ! -f "$1" ]; then
   echo "El archivo $1 no existe."
   exit 1

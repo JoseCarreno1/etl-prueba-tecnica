@@ -12,7 +12,7 @@ Tareas:
 
 from pymongo import MongoClient
 
-# Paso 1: Conectarse a la base de datos MongoDB
+# Paso 1: Conectarse a la base de datos MongoDB y parametrizar
 client = MongoClient('mongodb://localhost:27017/')
 db = client['database_name']
 coleccion = db['productos']
