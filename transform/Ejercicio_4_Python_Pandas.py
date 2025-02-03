@@ -1,6 +1,6 @@
 """
-Enunciado:
-Debes procesar el archivo ventas_ultimos_anios.parquet generado en la Sección 1. 
+Enunciado Python:
+Debes procesar el archivo ventas_ultimos_anios.parquet generado en la Sección 1.
 Tareas: 
 - Detectar valores nulos en cantidad y reemplazarlos con 0 
 - Calcular la columna total = cantidad * precio 

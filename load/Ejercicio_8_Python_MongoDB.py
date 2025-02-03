@@ -1,4 +1,5 @@
 """
+Enunciad Python:
 Tienes la siguiente colección en MongoDB llamada productos: 
 
 Tareas: 
