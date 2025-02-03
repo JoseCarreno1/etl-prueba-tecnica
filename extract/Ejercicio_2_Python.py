@@ -1,5 +1,5 @@
 """
-Enunciado:
+Enunciado Python:
 Debes conectar a SQL Server y extraer datos de la tabla ventas_sqlserver usando Python y SQLAlchemy.
 
 Tarea: 
