@@ -1,5 +1,7 @@
 #!/bin/bash
-
+# Enunciado Bash-Automation: 
+# Crear un cron job que ejecute el script de carga cada 12 horas 
+# Registrar logs de ejecución
 # Abrir el crontab del usuario en linuX
 # crontab -e
 # Adicionar la siguiente línea
